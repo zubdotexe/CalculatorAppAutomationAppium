@@ -10,17 +10,19 @@
   * Selenium
   * TestNG
   * Allure
-  * JSON.simple
-  * Java Faker
+  * Java Client
+* Android Studio  
+* Appium
+* Appium Inspector
 
 ## How to setup the environment?  
 * Copy library name from the Gradle section on [https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java](https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java) and paste it in build.gradle file in the project folder
 * Copy library name from the Gradle section on [https://mvnrepository.com/artifact/org.testng/testng](https://mvnrepository.com/artifact/org.testng/testng) and paste it in build.gradle file in the project folder
 * Copy library name from the Gradle section on [https://mvnrepository.com/artifact/io.qameta.allure/allure-testng](https://mvnrepository.com/artifact/io.qameta.allure/allure-testng) and paste it in build.gradle file in the project folder
-* Copy library name from the Gradle section on [https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple](https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple) and paste it in build.gradle file in the project folder
-* Copy library name from the Gradle section on [https://mvnrepository.com/artifact/com.github.javafaker/javafaker](https://mvnrepository.com/artifact/com.github.javafaker/javafaker) and paste it in build.gradle file in the project folder
+* Copy library name from the Gradle section on [https://mvnrepository.com/artifact/io.appium/java-client](https://mvnrepository.com/artifact/io.appium/java-client) and paste it in build.gradle file in the project folder
 * Click on the gradle icon on IntelliJ IDEA
 * Click on the 'Reload All Gradle Projects' icon
+* Turn on the emulator and start the Appium server using `appium` command
 
 ## How to run?  
 Run the following command in the terminal inside the project directory:  

@@ -35,12 +35,12 @@ Run the following command in the terminal inside the project directory:
 
 ## Output  
 ### Report 
-![allure_report](https://github.com/user-attachments/assets/31ba1a86-5c7d-4b74-8370-3ab2db85eccf)  
+ ![app_automation_allure_overview](https://github.com/user-attachments/assets/f397a5e7-1eed-42fb-9ffe-563b106067ef)
 <br>
 <br>
-![allure_report_behavior_v3](https://github.com/user-attachments/assets/5c299ae8-5c98-45e5-8e40-7c4fedb4ebfb)
+![app_automation_allure_behaviors](https://github.com/user-attachments/assets/0852f641-0967-462c-bb11-a04659b4d1b5)
 <br>
 <br>  
 ### Demonstration video
 Please click the link to watch the video:  
-https://drive.google.com/file/d/1Edm2PExKyLRol4APveshlJntcYX1bWIo/view?usp=sharing
+https://drive.google.com/file/d/1cxi-Tp_tIN7zSagVtvMPfrxdhPSchYTY/view?usp=sharing

@@ -1,4 +1,4 @@
-# Project Title: Automation of Calculator app on Android Using Appium
+# Project Title: Automation of the Calculator App on Android Using Appium
 
 ### Project Summary: The Calculator app offered by Google LLC on google playstore has been automated in this test automation project. The calculation of a series containing addition, subtraction, multiplication and division has been automated. 
 
